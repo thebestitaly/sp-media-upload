@@ -1,0 +1,718 @@
+{
+ "ciclo": 2,
+ "dal": "2027-06-01",
+ "al": "2027-11-27",
+ "temi": [
+  {
+   "date": "2027-06-01",
+   "pillar": "Sogni e avventure",
+   "fmt": "post",
+   "series": "Domande alla community",
+   "theme": "sogno-estate",
+   "title": "Il sogno dell'estate",
+   "note": "Inizio estate: domanda a 4 opzioni."
+  },
+  {
+   "date": "2027-06-03",
+   "pillar": "Cresce con lui",
+   "fmt": "carousel",
+   "series": "Le taglie a confronto",
+   "theme": "pagella-crescita",
+   "title": "La pagella della crescita",
+   "note": "Fine scuola: misure di giugno col metro."
+  },
+  {
+   "date": "2027-06-05",
+   "pillar": "Le mamme raccontano",
+   "fmt": "reel",
+   "series": "Le vostre foto",
+   "theme": "ugc-giugno",
+   "title": "I vostri astronauti di giugno",
+   "note": "Raccolta foto clienti (con consenso)."
+  },
+  {
+   "date": "2027-06-08",
+   "pillar": "Il cuscino",
+   "fmt": "carousel",
+   "series": "Il cuscino da vicino",
+   "theme": "notti-calde-traspirante",
+   "title": "Notti calde, testa fresca: la guida",
+   "note": "Traspirante, frasi del sito."
+  },
+  {
+   "date": "2027-06-10",
+   "pillar": "Nella scatola",
+   "fmt": "reel",
+   "series": "Unboxing",
+   "theme": "unboxing-reale",
+   "title": "Unboxing vero",
+   "note": "Solo se il packaging è definitivo: girarlo a casa di una famiglia."
+  },
+  {
+   "date": "2027-06-12",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "post",
+   "series": "Domande alla community",
+   "theme": "luce-estiva",
+   "title": "Quando fuori è ancora chiaro",
+   "note": "Tramonto tardi d'estate."
+  },
+  {
+   "date": "2027-06-15",
+   "pillar": "Artigiani del riposo",
+   "fmt": "reel",
+   "series": "Dietro le quinte",
+   "theme": "laboratorio-hopi",
+   "title": "Nel laboratorio di HOPI",
+   "note": "Serve materiale video da HOPI."
+  },
+  {
+   "date": "2027-06-17",
+   "pillar": "Sogni e avventure",
+   "fmt": "carousel",
+   "series": "Attività",
+   "theme": "costruisci-razzo",
+   "title": "Costruisci un razzo di cartone",
+   "note": "Attività estiva, nessun claim."
+  },
+  {
+   "date": "2027-06-19",
+   "pillar": "Il cuscino",
+   "fmt": "reel",
+   "series": "Il cuscino da vicino",
+   "theme": "federa-lavaggio",
+   "title": "Si sfodera così",
+   "note": "Video tutorial da girare: sfoderare la federa."
+  },
+  {
+   "date": "2027-06-22",
+   "pillar": "Le mamme raccontano",
+   "fmt": "post",
+   "series": "Una recensione alla volta",
+   "theme": "nuova-recensione-1",
+   "title": "Nuova recensione",
+   "note": "Da recensioni reali raccolte nel ciclo 1."
+  },
+  {
+   "date": "2027-06-24",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "reel",
+   "series": "Una tappa alla volta",
+   "theme": "tappa1-estate",
+   "title": "Gli ultimi salti d'estate",
+   "note": "Tappa 1 con foto nuove."
+  },
+  {
+   "date": "2027-06-26",
+   "pillar": "Cresce con lui",
+   "fmt": "post",
+   "series": "Domande alla community",
+   "theme": "quiz-eta-estate",
+   "title": "Quanti anni compie quest'estate?",
+   "note": "Compleanni estivi → taglia."
+  },
+  {
+   "date": "2027-06-29",
+   "pillar": "Nella scatola",
+   "fmt": "carousel",
+   "series": "Idee regalo",
+   "theme": "regalo-fine-asilo",
+   "title": "Regalo di fine asilo",
+   "note": "Per maestre e famiglie."
+  },
+  {
+   "date": "2027-07-01",
+   "pillar": "Nella scatola",
+   "fmt": "reel",
+   "series": "Un regalo alla volta",
+   "theme": "zainetto-valigia",
+   "title": "In valigia c'è posto",
+   "note": "Lo zainetto in partenza: serve foto reale dello zainetto."
+  },
+  {
+   "date": "2027-07-03",
+   "pillar": "Sogni e avventure",
+   "fmt": "post",
+   "series": "Domande alla community",
+   "theme": "mare-o-montagna",
+   "title": "Mare o montagna?",
+   "note": "Sondaggio estivo."
+  },
+  {
+   "date": "2027-07-06",
+   "pillar": "Il cuscino",
+   "fmt": "post",
+   "series": "Un plus alla volta",
+   "theme": "plus-traspirante-luglio",
+   "title": "L'aria circola",
+   "note": "Traspirante, foto nuova."
+  },
+  {
+   "date": "2027-07-08",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "carousel",
+   "series": "Il rituale completo",
+   "theme": "rituale-in-vacanza",
+   "title": "Il rituale in vacanza",
+   "note": "Le 4 tappe fuori casa."
+  },
+  {
+   "date": "2027-07-10",
+   "pillar": "Le mamme raccontano",
+   "fmt": "reel",
+   "series": "Collaborazioni",
+   "theme": "collab-blogger-1",
+   "title": "Una mamma blogger racconta",
+   "note": "Collaborazione con blogger (note del progetto)."
+  },
+  {
+   "date": "2027-07-13",
+   "pillar": "Cresce con lui",
+   "fmt": "carousel",
+   "series": "Una taglia alla volta",
+   "theme": "fratelli-in-viaggio",
+   "title": "Due taglie in macchina",
+   "note": "Fratelli in vacanza."
+  },
+  {
+   "date": "2027-07-15",
+   "pillar": "Sogni e avventure",
+   "fmt": "reel",
+   "series": "Giorni speciali",
+   "theme": "luna-allunaggio",
+   "title": "L'anniversario dell'allunaggio",
+   "note": "20 luglio 1969: fatto storico verificabile."
+  },
+  {
+   "date": "2027-07-17",
+   "pillar": "Nella scatola",
+   "fmt": "post",
+   "series": "Un regalo alla volta",
+   "theme": "torcia-campeggio",
+   "title": "La torcia in campeggio",
+   "note": "Mini torcia, frase del sito."
+  },
+  {
+   "date": "2027-07-20",
+   "pillar": "Il cuscino",
+   "fmt": "reel",
+   "series": "Il cuscino da vicino",
+   "theme": "dettaglio-onda",
+   "title": "La forma a onda, al rallentatore",
+   "note": "Video macro da girare."
+  },
+  {
+   "date": "2027-07-22",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "post",
+   "series": "Una tappa alla volta",
+   "theme": "tappa2-estate",
+   "title": "La storia con la torcia, in tenda",
+   "note": "Tappa 2."
+  },
+  {
+   "date": "2027-07-24",
+   "pillar": "Le mamme raccontano",
+   "fmt": "carousel",
+   "series": "Le vostre domande",
+   "theme": "faq-estate",
+   "title": "Domande d'estate",
+   "note": "Domande reali raccolte."
+  },
+  {
+   "date": "2027-07-27",
+   "pillar": "Artigiani del riposo",
+   "fmt": "carousel",
+   "series": "Le nostre promesse",
+   "theme": "spedizione-estate",
+   "title": "Spediamo anche d'estate",
+   "note": "Verificare con HOPI eventuali chiusure estive."
+  },
+  {
+   "date": "2027-07-29",
+   "pillar": "Sogni e avventure",
+   "fmt": "post",
+   "series": "Attività",
+   "theme": "cartolina-astronauta",
+   "title": "Una cartolina dallo spazio",
+   "note": "UGC: disegni di vacanza."
+  },
+  {
+   "date": "2027-07-31",
+   "pillar": "Cresce con lui",
+   "fmt": "reel",
+   "series": "Indovina la taglia",
+   "theme": "indovina-taglia-2",
+   "title": "Indovina la taglia · 2",
+   "note": "Quiz con foto nuove."
+  },
+  {
+   "date": "2027-08-03",
+   "pillar": "Il cuscino",
+   "fmt": "carousel",
+   "series": "Un plus alla volta",
+   "theme": "plus-anallergico-agosto",
+   "title": "Anallergico, anche in vacanza",
+   "note": "Frasi del sito."
+  },
+  {
+   "date": "2027-08-05",
+   "pillar": "Sogni e avventure",
+   "fmt": "reel",
+   "series": "Giorni speciali",
+   "theme": "san-lorenzo",
+   "title": "La notte di San Lorenzo",
+   "note": "10 agosto: stelle cadenti."
+  },
+  {
+   "date": "2027-08-07",
+   "pillar": "Nella scatola",
+   "fmt": "post",
+   "series": "Un regalo alla volta",
+   "theme": "poster-stelle-agosto",
+   "title": "Contare le stelle, anche a casa",
+   "note": "Il poster."
+  },
+  {
+   "date": "2027-08-10",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "reel",
+   "series": "Giorni speciali",
+   "theme": "desiderio-stella",
+   "title": "Il desiderio prima di dormire",
+   "note": "San Lorenzo + tappa 4."
+  },
+  {
+   "date": "2027-08-12",
+   "pillar": "Le mamme raccontano",
+   "fmt": "post",
+   "series": "Una recensione alla volta",
+   "theme": "nuova-recensione-2",
+   "title": "Nuova recensione · 2",
+   "note": "Da recensioni reali."
+  },
+  {
+   "date": "2027-08-14",
+   "pillar": "Sogni e avventure",
+   "fmt": "post",
+   "series": "Giorni speciali",
+   "theme": "ferragosto",
+   "title": "Buon Ferragosto",
+   "note": "Auguri, nessun claim."
+  },
+  {
+   "date": "2027-08-17",
+   "pillar": "Cresce con lui",
+   "fmt": "post",
+   "series": "Domande alla community",
+   "theme": "quanto-cresciuto-estate",
+   "title": "Quanto è cresciuto quest'estate?",
+   "note": "Metro."
+  },
+  {
+   "date": "2027-08-19",
+   "pillar": "Il cuscino",
+   "fmt": "reel",
+   "series": "Il cuscino da vicino",
+   "theme": "cuscino-in-viaggio",
+   "title": "Il cuscino giusto anche fuori casa",
+   "note": "Zainetto + cuscino."
+  },
+  {
+   "date": "2027-08-21",
+   "pillar": "Le mamme raccontano",
+   "fmt": "reel",
+   "series": "Le vostre foto",
+   "theme": "ugc-agosto",
+   "title": "Le vostre vacanze",
+   "note": "UGC (con consenso)."
+  },
+  {
+   "date": "2027-08-24",
+   "pillar": "Nella scatola",
+   "fmt": "carousel",
+   "series": "Idee regalo",
+   "theme": "regalo-rientro",
+   "title": "Un regalo per il rientro",
+   "note": "Back to school."
+  },
+  {
+   "date": "2027-08-26",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "carousel",
+   "series": "Il rituale completo",
+   "theme": "rientro-orari",
+   "title": "Si torna agli orari di scuola",
+   "note": "Il rituale per ripartire."
+  },
+  {
+   "date": "2027-08-28",
+   "pillar": "Artigiani del riposo",
+   "fmt": "post",
+   "series": "Chi siamo",
+   "theme": "persone-hopi",
+   "title": "Le persone di HOPI",
+   "note": "Serve foto del team."
+  },
+  {
+   "date": "2027-08-31",
+   "pillar": "Cresce con lui",
+   "fmt": "carousel",
+   "series": "Le taglie a confronto",
+   "theme": "nuovo-anno-scolastico",
+   "title": "Nuovo anno, nuova taglia?",
+   "note": "Taglie + metro."
+  },
+  {
+   "date": "2027-09-02",
+   "pillar": "Sogni e avventure",
+   "fmt": "post",
+   "series": "Domande alla community",
+   "theme": "primo-giorno-scuola",
+   "title": "Il primo giorno di scuola",
+   "note": "Domanda."
+  },
+  {
+   "date": "2027-09-04",
+   "pillar": "Il cuscino",
+   "fmt": "carousel",
+   "series": "Il cuscino da vicino",
+   "theme": "adulto-vs-bambino-3",
+   "title": "Un bambino non è un adulto in miniatura · 3",
+   "note": "Nuove foto."
+  },
+  {
+   "date": "2027-09-07",
+   "pillar": "Nella scatola",
+   "fmt": "reel",
+   "series": "Un regalo alla volta",
+   "theme": "diario-scuola",
+   "title": "Il diario dell'astronauta a scuola",
+   "note": "Diario."
+  },
+  {
+   "date": "2027-09-09",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "reel",
+   "series": "Una tappa alla volta",
+   "theme": "tappa3-settembre",
+   "title": "La carezza del rientro",
+   "note": "Tappa 3."
+  },
+  {
+   "date": "2027-09-11",
+   "pillar": "Le mamme raccontano",
+   "fmt": "carousel",
+   "series": "Collaborazioni",
+   "theme": "collab-blogger-2",
+   "title": "Una mamma blogger racconta · 2",
+   "note": "Seconda collaborazione."
+  },
+  {
+   "date": "2027-09-14",
+   "pillar": "Cresce con lui",
+   "fmt": "post",
+   "series": "Una taglia alla volta",
+   "theme": "taglia-small-2",
+   "title": "Small, si comincia",
+   "note": "Serie taglie, nuove foto."
+  },
+  {
+   "date": "2027-09-16",
+   "pillar": "Sogni e avventure",
+   "fmt": "reel",
+   "series": "Sogni del mattino",
+   "theme": "sogni-scuola",
+   "title": "I sogni prima della verifica",
+   "note": "Tono leggero."
+  },
+  {
+   "date": "2027-09-18",
+   "pillar": "Il cuscino",
+   "fmt": "post",
+   "series": "Un plus alla volta",
+   "theme": "plus-lavabile-settembre",
+   "title": "Lavabile, dopo l'estate",
+   "note": "Frasi del sito."
+  },
+  {
+   "date": "2027-09-21",
+   "pillar": "Artigiani del riposo",
+   "fmt": "reel",
+   "series": "Dietro le quinte",
+   "theme": "come-nasce-cuscino",
+   "title": "Come nasce un cuscino Space Pillow",
+   "note": "Video produzione da HOPI."
+  },
+  {
+   "date": "2027-09-23",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "post",
+   "series": "Giorni speciali",
+   "theme": "equinozio-autunno",
+   "title": "Equinozio: notte e giorno uguali",
+   "note": "23 settembre, dato astronomico."
+  },
+  {
+   "date": "2027-09-25",
+   "pillar": "Nella scatola",
+   "fmt": "carousel",
+   "series": "Un regalo alla volta",
+   "theme": "metro-settembre",
+   "title": "Il metro, a settembre",
+   "note": "Una foto al mese."
+  },
+  {
+   "date": "2027-09-28",
+   "pillar": "Le mamme raccontano",
+   "fmt": "post",
+   "series": "Le vostre foto",
+   "theme": "ugc-settembre",
+   "title": "Il vostro rientro",
+   "note": "UGC."
+  },
+  {
+   "date": "2027-09-30",
+   "pillar": "Cresce con lui",
+   "fmt": "reel",
+   "series": "Le taglie a confronto",
+   "theme": "taglie-reel-scuola",
+   "title": "Una taglia per ogni classe",
+   "note": "Taglie per età scolare."
+  },
+  {
+   "date": "2027-10-02",
+   "pillar": "Sogni e avventure",
+   "fmt": "post",
+   "series": "Domande alla community",
+   "theme": "nonni-festa",
+   "title": "Festa dei nonni",
+   "note": "2 ottobre, festa dei nonni in Italia."
+  },
+  {
+   "date": "2027-10-05",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "carousel",
+   "series": "Una tappa alla volta",
+   "theme": "tappa2-autunno",
+   "title": "Storie d'autunno con la torcia",
+   "note": "Tappa 2."
+  },
+  {
+   "date": "2027-10-07",
+   "pillar": "Il cuscino",
+   "fmt": "reel",
+   "series": "Il cuscino da vicino",
+   "theme": "flofom-autunno",
+   "title": "Flofom Soft Air, in 15 secondi",
+   "note": "Reel prodotto nuovo."
+  },
+  {
+   "date": "2027-10-09",
+   "pillar": "Nella scatola",
+   "fmt": "post",
+   "series": "Un regalo alla volta",
+   "theme": "zainetto-nonni",
+   "title": "Weekend dai nonni",
+   "note": "Zainetto."
+  },
+  {
+   "date": "2027-10-12",
+   "pillar": "Le mamme raccontano",
+   "fmt": "reel",
+   "series": "Il video delle mamme",
+   "theme": "video-mamme-nuovo",
+   "title": "Nuovo video delle mamme",
+   "note": "Da girare con famiglie clienti."
+  },
+  {
+   "date": "2027-10-14",
+   "pillar": "Cresce con lui",
+   "fmt": "carousel",
+   "series": "Una taglia alla volta",
+   "theme": "taglia-medium-2",
+   "title": "Medium, si cresce in fretta",
+   "note": "Nuove foto."
+  },
+  {
+   "date": "2027-10-16",
+   "pillar": "Sogni e avventure",
+   "fmt": "carousel",
+   "series": "Attività",
+   "theme": "costellazioni-autunno",
+   "title": "Le costellazioni d'autunno",
+   "note": "Fatti astronomici verificabili."
+  },
+  {
+   "date": "2027-10-19",
+   "pillar": "Il cuscino",
+   "fmt": "post",
+   "series": "Un plus alla volta",
+   "theme": "plus-ergonomico-ottobre",
+   "title": "Supporto ergonomico · 2",
+   "note": "Frasi del sito."
+  },
+  {
+   "date": "2027-10-21",
+   "pillar": "Artigiani del riposo",
+   "fmt": "carousel",
+   "series": "Chi siamo",
+   "theme": "quarant-anni-hopi",
+   "title": "Verso i 40 anni di HOPI",
+   "note": "1986→2026: da verificare con HOPI come raccontarlo."
+  },
+  {
+   "date": "2027-10-23",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "reel",
+   "series": "Giorni speciali",
+   "theme": "ora-solare",
+   "title": "Stanotte un'ora in più",
+   "note": "Ora solare: domenica 31 ottobre 2027."
+  },
+  {
+   "date": "2027-10-26",
+   "pillar": "Nella scatola",
+   "fmt": "carousel",
+   "series": "Idee regalo",
+   "theme": "regalo-halloween",
+   "title": "Halloween: dolcetto o... cuscino?",
+   "note": "Tono leggero."
+  },
+  {
+   "date": "2027-10-28",
+   "pillar": "Le mamme raccontano",
+   "fmt": "post",
+   "series": "Una recensione alla volta",
+   "theme": "nuova-recensione-3",
+   "title": "Nuova recensione · 3",
+   "note": "Recensioni reali."
+  },
+  {
+   "date": "2027-10-30",
+   "pillar": "Sogni e avventure",
+   "fmt": "reel",
+   "series": "Giorni speciali",
+   "theme": "halloween-astronauta",
+   "title": "Halloween da astronauta",
+   "note": "Maschere (UGC)."
+  },
+  {
+   "date": "2027-11-02",
+   "pillar": "Cresce con lui",
+   "fmt": "post",
+   "series": "Una taglia alla volta",
+   "theme": "taglia-large-2",
+   "title": "Large, più lunghezza",
+   "note": "Nuove foto."
+  },
+  {
+   "date": "2027-11-04",
+   "pillar": "Il cuscino",
+   "fmt": "carousel",
+   "series": "Il cuscino da vicino",
+   "theme": "domande-cuscino",
+   "title": "Le domande sul cuscino",
+   "note": "FAQ con frasi del sito."
+  },
+  {
+   "date": "2027-11-06",
+   "pillar": "Nella scatola",
+   "fmt": "reel",
+   "series": "Idee regalo",
+   "theme": "anteprima-natale-2027",
+   "title": "Natale si avvicina",
+   "note": "Anteprima regali."
+  },
+  {
+   "date": "2027-11-09",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "post",
+   "series": "Una tappa alla volta",
+   "theme": "tappa4-novembre",
+   "title": "Buon viaggio, astronauta · novembre",
+   "note": "Tappa 4."
+  },
+  {
+   "date": "2027-11-11",
+   "pillar": "Le mamme raccontano",
+   "fmt": "carousel",
+   "series": "Le vostre foto",
+   "theme": "ugc-anno",
+   "title": "Un anno di vostre foto",
+   "note": "Raccolta UGC dell'anno."
+  },
+  {
+   "date": "2027-11-13",
+   "pillar": "Sogni e avventure",
+   "fmt": "post",
+   "series": "Domande alla community",
+   "theme": "lettera-babbo-natale",
+   "title": "La lettera a Babbo Natale",
+   "note": "Domanda."
+  },
+  {
+   "date": "2027-11-16",
+   "pillar": "Artigiani del riposo",
+   "fmt": "post",
+   "series": "Le nostre promesse",
+   "theme": "spedizione-natale-2027",
+   "title": "Ordina in tempo per Natale",
+   "note": "Data limite da HOPI."
+  },
+  {
+   "date": "2027-11-18",
+   "pillar": "Cresce con lui",
+   "fmt": "reel",
+   "series": "Indovina la taglia",
+   "theme": "indovina-taglia-3",
+   "title": "Indovina la taglia · 3",
+   "note": "Quiz."
+  },
+  {
+   "date": "2027-11-20",
+   "pillar": "Sogni e avventure",
+   "fmt": "carousel",
+   "series": "Giorni speciali",
+   "theme": "giornata-infanzia",
+   "title": "Giornata mondiale dell'infanzia",
+   "note": "20 novembre."
+  },
+  {
+   "date": "2027-11-23",
+   "pillar": "Il cuscino",
+   "fmt": "reel",
+   "series": "Il cuscino da vicino",
+   "theme": "black-friday-qualita",
+   "title": "Black Friday: un cuscino che cresce con lui",
+   "note": "Solo se HOPI fa una promozione: altrimenti tema prodotto."
+  },
+  {
+   "date": "2027-11-25",
+   "pillar": "Nella scatola",
+   "fmt": "carousel",
+   "series": "Idee regalo",
+   "theme": "guida-regali-2027",
+   "title": "La guida ai regali Space Pillow",
+   "note": "Per età e taglia."
+  },
+  {
+   "date": "2027-11-27",
+   "pillar": "Il rituale della buonanotte",
+   "fmt": "reel",
+   "series": "Il rituale completo",
+   "theme": "rituale-un-anno",
+   "title": "Un anno di buonanotte",
+   "note": "Chiusura ciclo 2."
+  }
+ ],
+ "materiale_da_chiedere": [
+  "Foto e video reali di poster, diario, metro, zainetto e mini torcia (oggi esistono solo come icone).",
+  "Unboxing girato con il packaging definitivo.",
+  "Foto e video del laboratorio e delle persone di HOPI.",
+  "Nuove recensioni reali (le tre del sito sono state usate nel ciclo 1).",
+  "Un video tutorial: come si sfodera e si lava la federa.",
+  "Foto e video dei clienti con il consenso scritto dei genitori.",
+  "Data limite degli ordini per Natale 2027 ed eventuali chiusure estive."
+ ]
+}
