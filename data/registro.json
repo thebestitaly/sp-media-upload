@@ -108,8 +108,8 @@
   "Dal tramonto ai sogni, in quattro tappe. Space Pillow arriva alla fine, quando la missione più importante comincia.",
   "Insieme al cuscino trovi cinque regali per trasformare la buonanotte in un'avventura. Tutti compresi nel prezzo.",
   "Space Pillow è realizzato in Flofom Soft Air, un materiale elastico e traspirante con sagomature a onda.",
-  "Ogni sera, quando la luce si abbassa, comincia la missione più importante: riposare per crescere.",
   "Contenuto informativo: per dubbi sul sonno o sulla postura del tuo bambino parla con il pediatra.",
+  "Ogni sera, quando la luce si abbassa, comincia la missione più importante: riposare per crescere.",
   "Lo abbiamo fatto provare alle famiglie prima di lanciarlo. Ecco cosa ci hanno detto, a casa loro.",
   "Per gli anni delle elementari, quando si cresce in fretta: un po' più grande, sempre su misura.",
   "Sicuro, antibatterico e anallergico: pensato per la pelle e il respiro dei bambini.",
@@ -121,8 +121,8 @@
   "Abbiamo una regola semplice: fare solo promesse che possiamo mantenere.",
   "Soddisfatti o rimborsati: 30 giorni per il reso, con rimborso completo",
   "Testa e collo in linea, respiro leggero. Il resto lo fanno i sogni.",
-  "L'aria circola e la testa resta fresca, anche nelle notti d'estate.",
   "Torcia accesa, libro aperto: l'avventura continua sotto le coperte.",
+  "L'aria circola e la testa resta fresca, anche nelle notti d'estate.",
   "Una mano sulla fronte, e la testa trova il suo posto sul cuscino.",
   "Per portare il cuscino in viaggio, dai nonni o in vacanza.",
   "Per i più grandi di casa: la taglia più alta della gamma.",
@@ -642,7 +642,7 @@
    "title": "La notte della vigilia, in quattro tappe.",
    "objective": "Salvataggi e condivisioni",
    "hook": null,
-   "caption": "🎄 La notte della vigilia, in quattro tappe.\n\nL'attesa di Babbo Natale emoziona i più piccoli. Il rituale della buonanotte vale anche stasera: dal tramonto ai sogni, in quattro tappe.\n\n1️⃣ Gli ultimi salti. Le ultime energie del giorno finiscono sul letto. Poi si spegne la luce grande.\n2️⃣ La storia con la torcia. Torcia accesa, libro aperto: l'avventura continua sotto le coperte.\n3️⃣ La carezza. Una mano sulla fronte, e la testa trova il suo posto sul cuscino.\n4️⃣ Buon viaggio, astronauta. Testa e collo in linea, respiro leggero. Il resto lo fanno i sogni.\n\nSalva il post per la sera del 24 ✨",
+   "caption": "🎄 La notte della vigilia, in quattro tappe.\n\nL'attesa di Babbo Natale emoziona i più piccoli. Il rituale della buonanotte vale anche la notte della vigilia: dal tramonto ai sogni, in quattro tappe.\n\n1️⃣ Gli ultimi salti. Le ultime energie del giorno finiscono sul letto. Poi si spegne la luce grande.\n2️⃣ La storia con la torcia. Torcia accesa, libro aperto: l'avventura continua sotto le coperte.\n3️⃣ La carezza. Una mano sulla fronte, e la testa trova il suo posto sul cuscino.\n4️⃣ Buon viaggio, astronauta. Testa e collo in linea, respiro leggero. Il resto lo fanno i sogni.\n\nSalva il post per la sera del 24 ✨",
    "tags_full": [
     "#SpacePillow",
     "#SognidOro",
@@ -1995,7 +1995,7 @@
    "title": "Giornata mondiale del sonno: il rituale in quattro tappe.",
    "objective": "Salvataggi",
    "hook": "Giornata mondiale del sonno: il rituale in quattro tappe.",
-   "caption": "🌍 Il 19 marzo è la Giornata mondiale del sonno.\n\nNoi la festeggiamo con il rituale della buonanotte: dal tramonto ai sogni, in quattro tappe. Space Pillow arriva alla fine, quando la missione più importante comincia.\n\n1️⃣ Gli ultimi salti\n2️⃣ La storia con la torcia\n3️⃣ La carezza\n4️⃣ Buon viaggio, astronauta\n\nSalva il post per stasera ✨\n\nℹ️ Contenuto informativo: per dubbi sul sonno o sulla postura del tuo bambino parla con il pediatra.",
+   "caption": "🌍 Marzo è il mese della Giornata mondiale del sonno.\n\nNoi la festeggiamo con il rituale della buonanotte: dal tramonto ai sogni, in quattro tappe. Space Pillow arriva alla fine, quando la missione più importante comincia.\n\n1️⃣ Gli ultimi salti\n2️⃣ La storia con la torcia\n3️⃣ La carezza\n4️⃣ Buon viaggio, astronauta\n\nSalva il post per stasera ✨\n\nℹ️ Contenuto informativo: per dubbi sul sonno o sulla postura del tuo bambino parla con il pediatra.",
    "tags_full": [
     "#SpacePillow",
     "#SognidOro",
@@ -2005,7 +2005,7 @@
     "#Rituale"
    ],
    "story": "Sondaggio: «A che ora si spegne la luce grande?»",
-   "notes": "6 slide 4:5. ⚠️ Verificare la data su worldsleepday.org prima di pubblicare (alcune fonti indicano il 13 marzo).",
+   "notes": "6 slide 4:5. La data esatta 2027 della Giornata mondiale del sonno non è ancora ufficiale (di regola il venerdì prima dell'equinozio, 19 marzo): nel post non è indicata.",
    "cta": "Salva il post",
    "photos": [
     "k4161",
@@ -2073,27 +2073,30 @@
    "month": "2027-03",
    "week": 16,
    "fmt": "reel",
-   "pillar": "Le mamme raccontano",
-   "series": "Il video delle mamme",
-   "theme": "video-mamme-3",
-   "title": "Le mamme raccontano · 3.",
-   "objective": "Prova sociale",
-   "hook": "Le mamme raccontano · 3.",
-   "caption": "🎥 Le mamme raccontano · terza parte.\n\nLo abbiamo fatto provare alle famiglie prima di lanciarlo. Ecco cosa ci hanno detto, a casa loro.\n\nDomani è la Giornata mondiale del sonno: grazie a tutte le famiglie che ci raccontano le loro notti. 💜\n\n👉 spacepillow.ch (link in bio)",
+   "pillar": "Sogni e avventure",
+   "series": "Giorni speciali",
+   "theme": "festa-papa-reel",
+   "title": "Buona festa del papà.",
+   "objective": "Relazione",
+   "hook": "Buona festa del papà.",
+   "caption": "💙 Domani è la festa del papà!\n\nA chi fa da astronave, da cavallo, da narratore con la torcia e da ultimo controllo sotto il letto. 🚀\n\nTagga il papà astronauta della tua famiglia 👇",
    "tags_full": [
     "#SpacePillow",
     "#SognidOro",
     "#CuscinoBambini",
-    "#Mamme",
-    "#Recensioni"
+    "#FestaDelPapà",
+    "#Papà"
    ],
-   "story": "Ricondivisione delle tre parti in un'unica storia in evidenza «Mamme».",
-   "notes": "Reel 9:16: terzo spezzone del video del sito con audio originale. Sottotitoli automatici.",
-   "cta": "Link in bio",
+   "story": "Story con domanda «Il superpotere del tuo papà?»",
+   "notes": "Reel 9:16 con la foto del papà con il bambino e la scatola Space Pillow (primi scatti), poi foto di gioco e lettura. ⚠️ Verificare la liberatoria della foto del papà.",
+   "cta": "Tagga il papà",
    "photos": [
-    "video-mamme"
+    "dsc2924",
+    "k4426",
+    "k4417",
+    "k4321"
    ],
-   "folder": "47_2027-03-18_REEL_video-mamme-3",
+   "folder": "47_2027-03-18_REEL_festa-papa-reel",
    "files": [
     "reel.mp4"
    ],
@@ -2110,30 +2113,27 @@
    "month": "2027-03",
    "week": 16,
    "fmt": "reel",
-   "pillar": "Sogni e avventure",
-   "series": "Giorni speciali",
-   "theme": "festa-papa-reel",
-   "title": "Buona festa del papà.",
-   "objective": "Relazione",
-   "hook": "Buona festa del papà.",
-   "caption": "💙 Buona festa del papà!\n\nA chi fa da astronave, da cavallo, da narratore con la torcia e da ultimo controllo sotto il letto. 🚀\n\nTagga il papà astronauta della tua famiglia 👇",
+   "pillar": "Le mamme raccontano",
+   "series": "Il video delle mamme",
+   "theme": "video-mamme-3",
+   "title": "Le mamme raccontano · 3.",
+   "objective": "Prova sociale",
+   "hook": "Le mamme raccontano · 3.",
+   "caption": "🎥 Le mamme raccontano · terza parte.\n\nLo abbiamo fatto provare alle famiglie prima di lanciarlo. Ecco cosa ci hanno detto, a casa loro.\n\nGrazie a tutte le famiglie che ci raccontano le loro notti. 💜\n\n👉 spacepillow.ch (link in bio)",
    "tags_full": [
     "#SpacePillow",
     "#SognidOro",
     "#CuscinoBambini",
-    "#FestaDelPapà",
-    "#Papà"
+    "#Mamme",
+    "#Recensioni"
    ],
-   "story": "Story con domanda «Il superpotere del tuo papà?»",
-   "notes": "Reel 9:16 con la foto del papà con il bambino e la scatola Space Pillow (primi scatti), poi foto di gioco e lettura. ⚠️ Verificare la liberatoria della foto del papà. Pubblicato il giorno dopo il 19 marzo: in alternativa anticipare a giovedì 18.",
-   "cta": "Tagga il papà",
+   "story": "Ricondivisione delle tre parti in un'unica storia in evidenza «Mamme».",
+   "notes": "Reel 9:16: terzo spezzone del video del sito con audio originale. Sottotitoli automatici.",
+   "cta": "Link in bio",
    "photos": [
-    "dsc2924",
-    "k4426",
-    "k4417",
-    "k4321"
+    "video-mamme"
    ],
-   "folder": "48_2027-03-20_REEL_festa-papa-reel",
+   "folder": "48_2027-03-20_REEL_video-mamme-3",
    "files": [
     "reel.mp4"
    ],
@@ -2424,20 +2424,20 @@
    "fmt": "reel",
    "pillar": "Il cuscino",
    "series": "Il cuscino da vicino",
-   "theme": "federe-cuscino",
-   "title": "Il cuscino e le sue federe.",
+   "theme": "cuscino-quattro-dettagli",
+   "title": "Il cuscino, in quattro dettagli.",
    "objective": "Prodotto",
-   "hook": "Il cuscino e le sue federe.",
-   "caption": "🌌 Il cuscino e le sue federe.\n\nSpace Pillow: cuscino ergonomico su misura, con il kit dell'astronauta. È realizzato in Flofom Soft Air, un materiale elastico e traspirante con sagomature a onda.\n\nE le mamme dicono: «È sfoderabile e completamente lavabile.»\n\n👉 spacepillow.ch (link in bio)",
+   "hook": "Il cuscino, in quattro dettagli.",
+   "caption": "🌌 Il cuscino, in quattro dettagli.\n\nSpace Pillow: cuscino ergonomico su misura, con il kit dell'astronauta. È realizzato in Flofom Soft Air, un materiale elastico e traspirante con sagomature a onda.\n\nE le mamme dicono: «È sfoderabile e completamente lavabile.»\n\n👉 spacepillow.ch (link in bio)",
    "tags_full": [
     "#SpacePillow",
     "#SognidOro",
     "#CuscinoBambini",
-    "#Federa",
-    "#CuscinoBambini"
+    "#CuscinoBambini",
+    "#Dettagli"
    ],
-   "story": "Sondaggio: «Federa notte stellata o bianca?»",
-   "notes": "Reel 9:16 con le foto prodotto delle federe. ⚠️ Confermare con HOPI i nomi e la disponibilità delle due federe prima di pubblicare.",
+   "story": "Quiz: «Di che materiale è fatto Space Pillow?» → Flofom Soft Air.",
+   "notes": "Reel 9:16 con le foto prodotto.",
    "cta": "Link in bio",
    "photos": [
     "c1",
@@ -2445,7 +2445,7 @@
     "c7",
     "dsc2969"
    ],
-   "folder": "56_2027-04-08_REEL_federe-cuscino",
+   "folder": "56_2027-04-08_REEL_cuscino-quattro-dettagli",
    "files": [
     "reel.mp4"
    ],
@@ -2810,7 +2810,7 @@
    "title": "Se i sogni fossero nuvole.",
    "objective": "Engagement",
    "hook": "Se i sogni fossero nuvole.",
-   "caption": "☁️ Se i sogni fossero nuvole, che forma avrebbe quello di stanotte?\n\n🐳 Una balena\n🚀 Un razzo\n🦄 Un unicorno\n🏰 Un castello\n\nBuon weekend lungo a tutte le famiglie! 💜",
+   "caption": "☁️ Se i sogni fossero nuvole, che forma avrebbe quello di stanotte?\n\n🐳 Una balena\n🚀 Un razzo\n🦄 Un unicorno\n🏰 Un castello\n\nBuon primo maggio a tutte le famiglie! 💜",
    "tags_full": [
     "#SpacePillow",
     "#SognidOro",
