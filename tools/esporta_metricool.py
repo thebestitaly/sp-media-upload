@@ -2,7 +2,7 @@
 """Genera il CSV per l'importazione massiva in Metricool dal registro dei contenuti.
 
 Uso:
-  python3 tools/esporta_metricool.py --base https://UTENTE.github.io/REPO/ [--reti instagram,facebook] [--bozze no]
+  python3 tools/esporta_metricool.py --base https://UTENTE.github.io/REPO/ [--reti instagram,facebook] [--bozze no] [--tieni-bozze SP-C1-063,SP-C1-077]
 
 - Colonne identiche al modello CSV di Metricool (101 colonne).
 - Date: YYYY-MM-DD, orari: HH:MM:SS (in Metricool, al momento dell'import, scegliere questi due formati).
@@ -24,6 +24,7 @@ def main():
     base = base.rstrip("/") + "/"
     reti = [r.strip().lower() for r in arg("--reti", "instagram").split(",")]
     bozze = arg("--bozze", "si").lower() not in ("no", "false", "0")
+    tieni = set(x.strip() for x in arg("--tieni-bozze", "").split(",") if x.strip())
     out = arg("--out", f"{ROOT}/metricool/space-pillow_metricool.csv")
     reg = json.load(open(f"{ROOT}/data/registro.json", encoding="utf-8"))["contenuti"]
     rows = []
@@ -31,7 +32,7 @@ def main():
         r = {c: "" for c in COLS}
         r["Text"] = p["caption"] + "\n\n" + " ".join(p["tags_full"])
         r["Date"] = p["date"]; r["Time"] = p["time"] + ":00"
-        r["Draft"] = "TRUE" if bozze else "FALSE"
+        r["Draft"] = "TRUE" if (bozze or p["id"] in tieni) else "FALSE"
         for net, col in (("instagram", "Instagram"), ("facebook", "Facebook")):
             r[col] = "TRUE" if net in reti else "FALSE"
         url = lambda f: f"{base}media/{p['folder']}/{f}"
